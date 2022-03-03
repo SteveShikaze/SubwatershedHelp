@@ -1,4 +1,4 @@
-https://github.com/SteveShikaze/WatershedToolAbout/blob/main/images/Subwatershed1.PNG# ORMGP Watershed Tool Help
+# ORMGP Watershed Tool Help
 
 This document provides Help and a quick reference for the new Watershed Tool from ORMGP
 
@@ -27,7 +27,7 @@ The interactive tool provides properties of each subwatershed that the user sele
 - percent open water cover 
 - percent wetland cover
 
-![*Figure 1: ORMGP Subwatershed Tool*](https://github.com/SteveShikaze/WatershedToolAbout/blob/main/images/Subwatershed1.PNG)\*Figure 1: ORMGP Subwatershed Tool*
+![*Figure 1: ORMGP Subwatershed Tool*](hhttps://raw.githubusercontent.com/SteveShikaze/WatershedToolAbout/main/images/Subwatershed2.PNG)\*Figure 1: ORMGP Subwatershed Tool*
 
 
 
