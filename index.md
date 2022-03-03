@@ -13,16 +13,12 @@ Upon opening the tool, the map shows the entire ORMGP area, with each discrete s
 - Wetland coverage 
 - Open water coverage 
 - Permeability 
-- 
-The interactive tool provides properties of each subwatershed that the user selects.  When a subwatershed is selected,  
+
+The interactive tool provides properties of each subwatershed that the user selects.  When a subwatershed is selected, the properties of the selected watershed appear in a window.  
+
 # Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
