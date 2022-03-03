@@ -1,10 +1,10 @@
-# ORMGP Watershed Tool Help
+# ORMGP Subwatershed Tool Help
 
-This document provides Help and a quick reference for the new Watershed Tool from ORMGP
+This document provides Help and a quick reference for the new Subwatershed Tool from ORMGP
 
-# What is the Watershed Tool?
+# What is the Subwatershed Tool?
 
-The ORMGP Watershed Tool (https://owrc.github.io/subwatershed/) is a mapping tool where the Oak Ridges Moraine jurisdiction has been divided into subwatersheds, each covering an area of approximately 10 square kilometres.
+The ORMGP Subwatershed Tool (https://owrc.github.io/subwatershed/) is a mapping tool where the Oak Ridges Moraine jurisdiction has been divided into subwatersheds, each covering an area of approximately 10 square kilometres.
 
 A watershed is defined as an area of land where all water drains to a particular water body (e.g., lake, river segment).  A subwatershed is a portion of a watershed where water drains to a smaller water body within the larger watershed. Each of the subwatersheds shown in this tool is located within larger subwatersheds and watersheds.  
 
