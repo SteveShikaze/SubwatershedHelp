@@ -14,6 +14,8 @@ Upon opening the tool, the map shows the entire ORMGP area, with each discrete s
 - Open water coverage 
 - Permeability 
 
+![image](https://user-images.githubusercontent.com/92586150/156654342-6c254d62-6082-45bc-a6b2-1f317f5ebdc7.png)
+
 The interactive tool provides properties of each subwatershed that the user selects.  When a subwatershed is selected, the properties of the selected watershed appear in a window.  
 
 # Header 2
