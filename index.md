@@ -1,4 +1,4 @@
-## ORMGP Watershed Tool Help
+# ORMGP Watershed Tool Help
 
 This document provides Help and a quick reference for the new Watershed Tool from ORMGP
 
