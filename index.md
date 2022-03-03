@@ -27,8 +27,8 @@ The interactive tool provides properties of each subwatershed that the user sele
 - percent open water cover 
 - percent wetland cover
 
-![*Figure 2: ORMGP Subwatershed Tool*](https://raw.githubusercontent.com/SteveShikaze/WatershedToolAbout/main/images/Subwatershed2.PNG)\*Figure 1: ORMGP Subwatershed Tool*
-![*Figure 3: ORMGP Subwatershed Tool*](https://raw.githubusercontent.com/SteveShikaze/WatershedToolAbout/main/images/Subwatershed2.PNG)\*Figure 1: ORMGP Subwatershed Tool*
+![*Figure 2: ORMGP Subwatershed Tool*](https://raw.githubusercontent.com/SteveShikaze/WatershedToolAbout/main/images/subwatershed2.PNG)\*Figure 1: ORMGP Subwatershed Tool*
+
 
 
 
