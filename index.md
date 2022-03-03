@@ -1,4 +1,4 @@
-# ORMGP Watershed Tool Help
+https://github.com/SteveShikaze/WatershedToolAbout/blob/main/images/Subwatershed1.PNG# ORMGP Watershed Tool Help
 
 This document provides Help and a quick reference for the new Watershed Tool from ORMGP
 
@@ -14,7 +14,7 @@ Upon opening the tool, the map shows the entire ORMGP area, with each discrete s
 - Open water coverage 
 - Permeability 
 
-![image](https://user-images.githubusercontent.com/92586150/156654342-6c254d62-6082-45bc-a6b2-1f317f5ebdc7.png)
+![image](https://github.com/SteveShikaze/WatershedToolAbout/blob/main/images/Subwatershed1.PNG)
 
 The interactive tool provides properties of each subwatershed that the user selects.  When a subwatershed is selected, the properties of the selected watershed appear in a window.  
 
