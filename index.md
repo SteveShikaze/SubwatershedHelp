@@ -15,7 +15,7 @@ Upon opening the tool, the map shows the entire ORMGP area, with each discrete s
 - Open water coverage 
 - Permeability 
 
-In the figure below, the imperviousness is colour-coded for each subwatershed.  Darker blue subwatersheds are more impervious, whereas lighter colours are more permeable. 
+In Figure 1, the imperviousness is colour-coded for each subwatershed.  Darker blue subwatersheds are more impervious, whereas lighter colours are more permeable. 
 
 ![*Figure 1: ORMGP Subwatershed Tool*](https://raw.githubusercontent.com/SteveShikaze/WatershedToolAbout/main/images/Subwatershed1.PNG)
 
@@ -28,6 +28,8 @@ The interactive tool provides properties of each subwatershed that the user sele
 - percent canopy cover
 - percent open water cover 
 - percent wetland cover
+
+In Figure 2, the map is zoomed in to see the individual subwatershed boundaries in more detail. Properties of the selected subwatershed are shown in a pop-up.
 
 ![*Figure 2: Subwatershed Properties*](https://raw.githubusercontent.com/SteveShikaze/WatershedToolAbout/main/images/subwatershed2.PNG)
 
